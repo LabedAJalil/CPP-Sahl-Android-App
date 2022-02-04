@@ -1,6 +1,6 @@
 # CCP Sahel Android App
 
-CCP sahel android is a tool for converting numbers to (Arabic/French) words then displaying them in Algerian post cheque.
+CCP sahel android is a tool for converting numbers to (Arabic/French) words then displaying them in Algerian post checks.
 
 ![Logo](https://github.com/LabedAJalil/number-To-words-Android-App/blob/main/CPP%20sahl%20logo.png)
 
