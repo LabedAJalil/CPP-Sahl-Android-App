@@ -17,7 +17,7 @@ CCP sahel android is a tool for converting numbers to (Arabic/French) words then
 
 - Convert number to arabic words
 - Convert number to french words
-- It is a handy tool for writing checks
+- It is a handy tool for writing postal check
 
 ## Contributing
 
